@@ -1,0 +1,11 @@
+.red{color:red;
+    background-color: lightgrey;}
+img{width:320px;
+     height:240px;
+    border: rgb(56, 74, 77);
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+}
+body{background-color: rgb(56, 74, 77);}   
+  
